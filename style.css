@@ -7,7 +7,7 @@
 /* Body styling */
 body { 
     text-align: center;
-    background: #FFF574 url('https://i.imgur.com/nVVaZgV.jpg') no-repeat center center fixed; /* Soft pink background with the image */
+    background: #FFF574 url('https://img.freepik.com/free-vector/vector-valentines-day-seamless-yellow-background-with-heart-shape-pattern-horizontally-repeatable_8130-1840.jpg') no-repeat center center fixed; /* Soft pink background with the image */
     background-size: cover; /* Ensures the image covers the entire background */
     display: flex;
     flex-direction: column;
